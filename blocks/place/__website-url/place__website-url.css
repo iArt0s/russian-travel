@@ -1,14 +1,14 @@
-.website__url-heading{
+.place__website-url {
   color: #AAAAAA;
 }
 
 @media (min-width: 768px) {
-  .website__url-heading {
+.website__url-heading {
   }
 }
 
 @media (min-width: 1024px) {
-  .website__url-heading{
+.place__website-url {
     margin: 0;
     padding-bottom: 12px;
   }
