@@ -1,18 +1,13 @@
 .footer__nav-copyright {
-  /* 
-font-family: Inter;
-font-style: normal; */
   font-weight: normal;
   font-size: 14px;
   line-height: 14px;
   color: #ffffff;
-  /* padding-left: 16px; */
   margin-top: 48px;
 }
 
 @media (min-width: 768px) {
   .footer__nav-copyright {
-    /* margin-left: auto; */
     margin-top: 0;
   }
 }
