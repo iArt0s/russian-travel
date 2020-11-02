@@ -1,0 +1,25 @@
+.cover{
+  margin-top: 68px;
+  margin-bottom: 64px;
+  min-height: 320px;
+}
+
+@media (min-width: 768px) {
+  .cover{
+    min-height: 480px;
+  }
+}
+
+
+@media (min-width: 1024px) {
+  .cover{
+    min-height: 640px;
+  }
+}
+
+@media (min-width: 1280px) {
+  .cover{
+    padding-left: 48px;
+    padding-right: 48px;
+  }
+}

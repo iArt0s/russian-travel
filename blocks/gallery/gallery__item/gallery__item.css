@@ -1,0 +1,14 @@
+.gallery__item{
+  max-width: 100%;
+  margin-bottom: 12px;
+}
+
+.gallery__item:nth-child(12){
+  margin-bottom: 0px;
+}
+
+@media (min-width: 768px) {
+  .gallery__item {
+    margin-bottom: 0;
+  }
+}
