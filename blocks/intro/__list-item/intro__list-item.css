@@ -5,11 +5,3 @@
   color: #ffffff;
   text-align: left;
 }
-
-
-@media (min-width: 768px) {
-  .intro__list-item {
-    font-size: 12px;
-    line-height: 18px;
-  }
-}

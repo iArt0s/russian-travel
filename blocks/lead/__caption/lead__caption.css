@@ -7,4 +7,23 @@
   color: #ffffff;
   display: block;
   margin-top: 8px;
+  margin-left: 16px;
+}
+
+@media (min-width: 768px) {
+  .lead__caption {
+    margin-left: 24px;
+  }
+}
+
+@media (min-width: 1024px) {
+  .lead__caption {
+    margin-left: 0;
+  }
+}
+
+@media (min-width: 1280px) {
+  .lead__caption {
+    margin-left: 0;
+  }
 }

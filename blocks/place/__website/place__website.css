@@ -1,6 +1,7 @@
 .place__website {
   display: none;
   margin: 0;
+  align-self: flex-end;
 }
 
 @media (min-width: 768px) {

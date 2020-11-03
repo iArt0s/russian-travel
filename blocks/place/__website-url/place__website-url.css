@@ -1,14 +1,12 @@
 .place__website-url {
-  color: #AAAAAA;
-}
-
-@media (min-width: 768px) {
-.website__url-heading {
-  }
+  color: #aaaaaa;
+  font-size: 12px;
+  line-height: 12px;
+  letter-spacing: 0.2em;
 }
 
 @media (min-width: 1024px) {
-.place__website-url {
+  .place__website-url {
     margin: 0;
     padding-bottom: 12px;
   }
