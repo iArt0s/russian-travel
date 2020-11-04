@@ -7,6 +7,8 @@
       'place__image place__text';
     gap: 28px;
     margin-bottom: 72px;
+    padding-left: 24px;
+    padding-right: 24px;
   }
 }
 
@@ -19,6 +21,8 @@
       'place__image place__text';
     gap: 32px;
     margin-bottom: 80px;
+    padding-left: 48px;
+    padding-right: 48px;
   }
 }
 

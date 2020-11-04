@@ -8,6 +8,5 @@
   .place__website {
     display: flex;
     flex-direction: column;
-    padding-top: 24px;
   }
 }

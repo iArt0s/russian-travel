@@ -3,7 +3,7 @@
   margin-bottom: 12px;
 }
 
-.gallery__item:nth-child(12){
+.gallery__item:last-child{
   margin-bottom: 0px;
 }
 
