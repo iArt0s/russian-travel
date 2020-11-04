@@ -12,8 +12,7 @@
   outline: none;
   position: relative;
 }
-
-.cover__link:hover::before{
+.cover__link:before{
   content: "";
   position: absolute;
   top: 0;
@@ -21,6 +20,10 @@
   right: 0;
   bottom: 0;
   background: #2A2C2F;
+  opacity: 0.3;
+}
+
+.cover__link:hover::before{
   opacity: 0.8;
 }
 
